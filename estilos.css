@@ -1,0 +1,13 @@
+/*Estilo para la pagina*/
+h1{
+    color: blue;
+}
+
+h2{
+    background-color: brown;
+}
+
+image{
+    width: 150px;
+    height: 150px;
+}
