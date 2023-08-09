@@ -11,3 +11,13 @@ image{
     width: 150px;
     height: 150px;
 }
+
+p{
+    color: blueviolet;
+}
+
+nav{
+    text-align: center;
+    background-color: aqua;
+    text-decoration: none;
+}
